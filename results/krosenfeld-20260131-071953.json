@@ -1,0 +1,42 @@
+{
+  "participants": {
+    "auditor": "019c12e2-99de-7e52-9352-175778eb2c40"
+  },
+  "results": [
+    {
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "confusion_matrix": {
+        "tp": 0,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "bayesian": {
+        "precision": {
+          "posterior_mean": 0.5,
+          "posterior_params": {
+            "alpha": 1.0,
+            "beta": 1.0
+          },
+          "credible_interval_95": [
+            0.025,
+            0.975
+          ]
+        },
+        "recall": {
+          "posterior_mean": 0.5,
+          "posterior_params": {
+            "alpha": 1.0,
+            "beta": 1.0
+          },
+          "credible_interval_95": [
+            0.025,
+            0.975
+          ]
+        }
+      }
+    }
+  ]
+}

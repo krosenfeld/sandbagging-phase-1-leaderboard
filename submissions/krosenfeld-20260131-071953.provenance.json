@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/krosenfeld/sandbagging-green-phase-1@sha256:11b81bb45d1fed6cdb93f2bf24a345dc8be815655e02accf6715548bfd415bc7",
+    "auditor": "ghcr.io/krosenfeld/sandbagging-purple-phase-1@sha256:a5425b7a142294a5cd7d90339e492978ba827f128df8cfa6f2002e90d594a109",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-31T07:19:53Z",
+  "github_actions": {
+    "run_url": "https://github.com/krosenfeld/sandbagging-phase-1-leaderboard/actions/runs/21540854938",
+    "run_logs_url": "https://api.github.com/repos/krosenfeld/sandbagging-phase-1-leaderboard/actions/runs/21540854938/logs",
+    "ref": "refs/heads/database-a",
+    "sha": "d9e09be4f50d241f49aba4d0337c4cea417b5cfc",
+    "repository_url": "https://github.com/krosenfeld/sandbagging-phase-1-leaderboard",
+    "workflow_ref": "krosenfeld/sandbagging-phase-1-leaderboard/.github/workflows/run-scenario.yml@refs/heads/database-a",
+    "workflow_sha": "d9e09be4f50d241f49aba4d0337c4cea417b5cfc"
+  }
+}
