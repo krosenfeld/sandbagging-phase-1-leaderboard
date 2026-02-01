@@ -1,0 +1,12 @@
+[green_agent]
+agentbeats_id = "019c12d4-bd9b-7111-8a05-3c7e25d4a984"
+env = { HF_TOKEN = "{HF_TOKEN}", LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = "019c12e2-99de-7e52-9352-175778eb2c40"
+name = "auditor"
+env = {}
+
+[config]
+log_level = "info"
+log_dir = "db/"
